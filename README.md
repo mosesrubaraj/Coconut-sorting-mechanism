@@ -6,17 +6,17 @@ Images of parts designed in  fusion 360
 
 ![Image](https://github.com/user-attachments/assets/9bb02c7e-fae3-454f-b92b-946d12ea4543)
               
-               60mm hole Grade C coconut
+  60mm hole Grade C coconut
 
 
 ![Image](https://github.com/user-attachments/assets/6bdd7040-87ad-4612-ade0-6127a38ad56d)
               
-               70mm hole Grade B coconut
+  70mm hole Grade B coconut
 
 
 ![Image](https://github.com/user-attachments/assets/f621f645-adf3-4206-960f-69e18bbda463)
              
-              80mm hole Grade A coconut
+80mm hole Grade A coconut
 
 
 ![Image](https://github.com/user-attachments/assets/abb550d1-c488-4b3a-909b-ce77a7aa51f9)
