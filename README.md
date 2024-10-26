@@ -16,7 +16,7 @@ This project features an automated coconut sorting mechanism aimed at enhancing 
 
 ![Image](https://github.com/user-attachments/assets/f621f645-adf3-4206-960f-69e18bbda463)
              
-### Stress analysis 
+### Stress Analysis 
 
 
 ![Image](https://github.com/user-attachments/assets/abb550d1-c488-4b3a-909b-ce77a7aa51f9)
